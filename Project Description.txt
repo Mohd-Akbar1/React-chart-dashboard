@@ -19,5 +19,5 @@ Chart.js: For rendering various types of charts (Bar and Line) to visualize the 
 Axios: For making HTTP requests to fetch data from a local API.
 CSS: For styling the components and ensuring a visually appealing layout.
 
-
+71GDg6FSecRqG135
 
